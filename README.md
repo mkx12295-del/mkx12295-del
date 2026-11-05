@@ -42,14 +42,6 @@ I'm a **B.Tech Computer Science and Engineering (Blockchain)** student at **VIT 
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mkx12295-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkx12295-del&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=mkx12295-del&theme=tokyonight&hide_border=true" />
 </p>
 
